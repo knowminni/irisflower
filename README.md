@@ -1,18 +1,18 @@
-# irisflower
-Machine Learning Model to predict Iris Flower Species Category
+## irisflower
+# ***Machine Learning Model to predict Iris Flower Species Category***
 
 Sourced Data from: https://www.kaggle.com/uciml/iris
 
 Built on: Google Colaboratory based Jupyter Notebook.
 
-Python Libraries Used:
-> Numpy: Array based Mathematical Operations
-> IO, Google.Colab : Loading Dataset
-> Pandas: Handling data on Dataframes
-> Seaborn, Matplotlib: Data Visualization and Exploratory Data Analysis of Target Variables
-> Sklearn: For LabelEncoding, Model Building, HyperparameterTuning, Model Diagnosis and Evaluation
-> Joblib: For Picking and Unpickling Model 
-> Gradio: Creating UI
+**Python Libraries Used:**
+- Numpy: Array based Mathematical Operations
+- IO, Google.Colab : Loading Dataset
+- Pandas: Handling data on Dataframes
+- Seaborn, Matplotlib: Data Visualization and Exploratory Data Analysis of Target Variables
+- Sklearn: For LabelEncoding, Model Building, HyperparameterTuning, Model Diagnosis and Evaluation
+- Joblib: For Picking and Unpickling Model 
+- Gradio: Creating UI
 
 
 

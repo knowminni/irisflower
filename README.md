@@ -18,15 +18,15 @@ Python Libraries Used:
 
 Models in the Repository:
 
-> iris.h5 : 
-Source Code in Iris_Flower_Dataset.ipynb
-Logistic Regression Model with a score of 93.33%
-UI Source Code in IrisPredApp.ipynb
+**iris.h5 :**
+ - Source Code in Iris_Flower_Dataset.ipynb
+ - Logistic Regression Model with a score of 93.33%
+ - UI Source Code in IrisPredApp.ipynb
 
-> DTmodel_iris :
-Source Code in IrisFloweDTClassifier.ipynb
-Decision Tree Classifier parameter tuned with GridSearchCV, score - 95.57%
-UI Source Code in IrisPredictionApp.ipynb
+**DTmodel_iris :**
+ - Source Code in IrisFloweDTClassifier.ipynb
+ - Decision Tree Classifier parameter tuned with GridSearchCV, score - 95.57%
+ - UI Source Code in IrisPredictionApp.ipynb
 
 
 
